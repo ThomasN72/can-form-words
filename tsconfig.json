@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6", // or newer, such as es2017, es2019, es2020, etc.
+    "module": "commonjs",
+    "lib": ["es2017", "dom"], // include es2017 (or newer) and dom
+    "moduleResolution": "node",
+    // other options...
+  },
+  // ... potentially other configurations ...
+}
